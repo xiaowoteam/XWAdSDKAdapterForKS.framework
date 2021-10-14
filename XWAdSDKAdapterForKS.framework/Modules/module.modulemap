@@ -1,0 +1,6 @@
+framework module XWAdSDKAdapterForKS {
+  umbrella header "XWAdSDKAdapterForKS.h"
+
+  export *
+  module * { export * }
+}
